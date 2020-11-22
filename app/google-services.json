@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "901179508980",
+    "firebase_url": "https://game-server-38c4e.firebaseio.com",
+    "project_id": "game-server-38c4e",
+    "storage_bucket": "game-server-38c4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901179508980:android:e6ba125a3990187b3f76a1",
+        "android_client_info": {
+          "package_name": "com.amrute_studio.mediscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901179508980-me8v0ctv4tcojgksav698mmq45j9iv5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_u9zGZ1-TPdLab6GYefwPhLkYWbKgiKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901179508980-me8v0ctv4tcojgksav698mmq45j9iv5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
